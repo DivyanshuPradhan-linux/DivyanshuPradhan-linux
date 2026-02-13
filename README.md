@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on JAVA<br>👯 I’m looking to collaborate on IOT Projects<br>🌱 I’m currently learning Dart<br>💬 Ask me about technology<br>⚡ Fun fact  I used to build app for my gf when I get brekup I Send Update and introduce subscription model 😆..
+I used to build app for my gf when I get brekup I Send Update and introduce subscription model 😆..
+<br> 
 
 
 ## 🌐 Socials:
