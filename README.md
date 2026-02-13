@@ -1,4 +1,4 @@
-# 💫 About Me:
+<br> A Highly Curated Software Guy with optimizting Approach in Building Softwres# 💫 About Me:
 I used to build app for my gf when I get brekup I Send Update and introduce subscription model 😆..
 <br> 
 
